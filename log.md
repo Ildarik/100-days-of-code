@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 1, 2017
+### Day 1: August 1, 2017. Monday
 
 **Today's Progress:** Fixed typos in markup, checked markup validation.
 
