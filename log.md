@@ -2,11 +2,11 @@
 
 ### Day 1: August 1, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Fixed typos in markup, checked markup validation.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Learned new tools for markup validation. Used GitHub Pages for hosting. Mark up pages is cool and funny!)  
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [DEVMAN #21 Агентство Недвижимости](https://github.com/Ildarik/21_valid_markup)
 
 ### Day 2: August 2, 2017
 
