@@ -8,13 +8,14 @@
 
 **Link to work:** [DEVMAN #21 Агентство Недвижимости](https://github.com/Ildarik/21_valid_markup)
 
+
 ### Day 2: August 2, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Prepare site for mark up offline.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: New experience was easy but valuable )
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [DEVMAN #16 Сайт в оффлайн](https://github.com/Ildarik/16_offline_site)
 
 
 ### Day 3: August 3, 2017
