@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 1, 2017. Monday
+### Day 1: August 1, 2017 Tuesday
 
 **Today's Progress:** Fixed typos in markup, checked markup validation.
 
@@ -9,7 +9,7 @@
 **Link to work:** [DEVMAN #21 Агентство Недвижимости](https://github.com/Ildarik/21_valid_markup)
 
 
-### Day 2: August 2, 2017
+### Day 2: August 2, 2017 Thursday
 
 **Today's Progress**: Prepare site for mark up offline.
 
@@ -18,7 +18,7 @@
 **Link(s) to work**: [DEVMAN #16 Сайт в оффлайн](https://github.com/Ildarik/16_offline_site)
 
 
-### Day 3: August 3, 2017
+### Day 3: August 3, 2017 Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
