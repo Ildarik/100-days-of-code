@@ -20,10 +20,8 @@
 
 ### Day 3: August 3, 2017 Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Work on some projects, research and study new things.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Every day I learn something new. New insight - use commit message for notesapp )
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
