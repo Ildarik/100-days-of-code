@@ -25,3 +25,12 @@
 **Thoughts** Every day I learn something new. New insight - use commit message for notesapp )
 
 **Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
+
+
+### Day 4: August 4, 2017 Friday
+
+**Today's Progress**: Work on evotor project and a little Devman, research and study new things.
+
+**Thoughts** LiveReload. Bootstrap. HTML tags.
+
+**Link(s) to work** [DEVMAN #22 Поставщики Новосибирска](https://devman.org/challenges/22/)
