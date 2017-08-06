@@ -34,3 +34,12 @@
 **Thoughts** LiveReload. Bootstrap. HTML tags.
 
 **Link(s) to work** [DEVMAN #22 Поставщики Новосибирска](https://devman.org/challenges/22/)
+
+
+### Day 5: August 6, 2017 Sunday
+
+**Today's Progress**: Fixed Devman issues.
+
+**Thoughts** Very tired and want sleep )
+
+**Link(s) to work** [DEVMAN #16 Сайт в оффлайн](https://github.com/Ildarik/16_offline_site)
