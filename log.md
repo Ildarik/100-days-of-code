@@ -43,3 +43,12 @@
 **Thoughts** Very tired and want sleep )
 
 **Link(s) to work** [DEVMAN #16 Сайт в оффлайн](https://github.com/Ildarik/16_offline_site)
+
+
+### Day 6: August 7, 2017 Monday
+
+**Today's Progress**: Fixed Devman issues. Work on quickresto project. Try ti use github issues.
+
+**Thoughts** Day by day make it better!
+
+**Link(s) to work** [DEVMAN #21 Агентство Недвижимости](https://github.com/Ildarik/21_valid_markup)
