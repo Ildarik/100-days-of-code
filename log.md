@@ -47,8 +47,17 @@
 
 ### Day 6: August 7, 2017 Monday
 
-**Today's Progress**: Fixed Devman issues. Work on quickresto project. Try ti use github issues.
+**Today's Progress**: Fixed Devman issues. Work on quickresto project. Try to use github issues.
 
 **Thoughts** Day by day make it better!
 
 **Link(s) to work** [DEVMAN #21 Агентство Недвижимости](https://github.com/Ildarik/21_valid_markup)
+
+
+### Day 7: August 8, 2017 Monday
+
+**Today's Progress**: Fixed Devman issues.
+
+**Thoughts** Learn, research, read more!
+
+**Link(s) to work** [DEVMAN #16 Сайт в оффлайн](https://github.com/Ildarik/16_offline_site)
