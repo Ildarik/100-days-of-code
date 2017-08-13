@@ -54,10 +54,19 @@
 **Link(s) to work** [DEVMAN #21 Агентство Недвижимости](https://github.com/Ildarik/21_valid_markup)
 
 
-### Day 7: August 8, 2017 Monday
+### Day 7: August 8, 2017 Tuesday
 
 **Today's Progress**: Fixed Devman issues.
 
 **Thoughts** Learn, research, read more!
 
 **Link(s) to work** [DEVMAN #16 Сайт в оффлайн](https://github.com/Ildarik/16_offline_site)
+
+
+### Day 8: August 14, 2017 Sunday
+
+**Today's Progress**: Work on Devman challenge #20.
+
+**Thoughts** Frontend is hard for me :(
+
+**Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://devman.org/challenges/20)
