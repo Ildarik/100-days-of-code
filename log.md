@@ -70,3 +70,12 @@
 **Thoughts** Frontend is hard for me :(
 
 **Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://devman.org/challenges/20)
+
+
+### Day 9: August 15, 2017 Monday
+
+**Today's Progress**: Work on Devman challenge #20.
+
+**Thoughts** JavaScript is NEW for me :)
+
+**Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://devman.org/challenges/20)
