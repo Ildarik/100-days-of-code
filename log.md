@@ -63,7 +63,7 @@
 **Link(s) to work** [DEVMAN #16 Сайт в оффлайн](https://github.com/Ildarik/16_offline_site)
 
 
-### Day 8: August 14, 2017 Sunday
+### Day 8: August 13, 2017 Sunday
 
 **Today's Progress**: Work on Devman challenge #20.
 
@@ -72,10 +72,19 @@
 **Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://devman.org/challenges/20)
 
 
-### Day 9: August 15, 2017 Monday
+### Day 9: August 14, 2017 Monday
 
 **Today's Progress**: Work on Devman challenge #20.
 
 **Thoughts** JavaScript is NEW for me :)
 
 **Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://devman.org/challenges/20)
+
+
+### Day 10: August 17, 2017 Thursday
+
+**Today's Progress**: Work on Devman challenge #11 and CodeWars.
+
+**Thoughts** Solving problems is hard
+
+**Link(s) to work** [DEVMAN #11 Поиск дубликатов](https://github.com/Ildarik/11_duplicates)
