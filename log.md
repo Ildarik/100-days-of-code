@@ -88,3 +88,12 @@
 **Thoughts** Solving problems is hard
 
 **Link(s) to work** [DEVMAN #11 Поиск дубликатов](https://github.com/Ildarik/11_duplicates)
+
+
+### Day 11: August 18, 2017 Friday
+
+**Today's Progress**: Work on Devman challenge #11, research forks.
+
+**Thoughts** Researching forks is fun )
+
+**Link(s) to work** [DEVMAN #11 Поиск дубликатов](https://github.com/Ildarik/11_duplicates)
