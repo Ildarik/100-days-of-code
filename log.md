@@ -97,3 +97,12 @@
 **Thoughts** Researching forks is fun )
 
 **Link(s) to work** [DEVMAN #11 Поиск дубликатов](https://github.com/Ildarik/11_duplicates)
+
+
+### Day 12: August 19, 2017 Saturday
+
+**Today's Progress**: TRY use GitHub API for getting list of forks. PLAY with walmart console.
+
+**Thoughts** TRY\PLAY always )
+
+**Link(s) to work** 
