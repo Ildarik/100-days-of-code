@@ -106,3 +106,12 @@
 **Thoughts** TRY\PLAY always )
 
 **Link(s) to work** 
+
+
+### Day 13: August 27, 2017 Sunday
+
+**Today's Progress**: Work on Devman challenge #20.
+
+**Thoughts** To build code habit is hard for me :(
+
+**Link(s) to work** 
