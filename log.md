@@ -115,3 +115,12 @@
 **Thoughts** To build code habit is hard for me :(
 
 **Link(s) to work** 
+
+
+### Day 14: August 28, 2017 Monday
+
+**Today's Progress**: Work on Devman challenge #20. Watch sorax spotlight, learn bootstrap.
+
+**Thoughts** Getting stuck?! ASK!!! NEVER GIVE UP!)
+
+**Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
