@@ -124,3 +124,12 @@
 **Thoughts** Getting stuck?! ASK!!! NEVER GIVE UP!)
 
 **Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
+
+
+### Day 15: August 29, 2017 Tuesday
+
+**Today's Progress**: Work on Devman challenge #18. Read about debugging in python.
+
+**Thoughts** Sometimes coding is easy )
+
+**Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
