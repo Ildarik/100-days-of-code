@@ -133,3 +133,12 @@
 **Thoughts** Sometimes coding is easy )
 
 **Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
+
+
+### Day 16: September 1, 2017 Friday
+
+**Today's Progress**: Try to refactor quickresto script.
+
+**Thoughts** Why I tried to refactor working solution?)
+
+
