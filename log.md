@@ -142,3 +142,10 @@
 **Thoughts** Why I tried to refactor working solution?)
 
 
+### Day 17: September 3, 2017 Sunday
+
+**Today's Progress**: Work on Devman challenge #18 and improve quickresto script. 
+
+**Thoughts** Every day I learn something new, step-by-step!
+
+**Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
