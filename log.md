@@ -149,3 +149,12 @@
 **Thoughts** Every day I learn something new, step-by-step!
 
 **Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
+
+
+### Day 18: September 4, 2017 Monday
+
+**Today's Progress**: Try do schedule cronjob.
+
+**Thoughts** Unix cron jobs much easier than on Windows.
+
+**Link(s) to work** 
