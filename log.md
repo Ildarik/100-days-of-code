@@ -158,3 +158,12 @@
 **Thoughts** Unix cron jobs much easier than on Windows.
 
 **Link(s) to work** 
+
+
+### Day 19: September 6, 2017 Wednesday
+
+**Today's Progress**: Work on Devman challenge #18. Programmed in an interview.
+
+**Thoughts** So excited after first coding interview
+
+**Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
