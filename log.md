@@ -167,3 +167,14 @@
 **Thoughts** So excited after first coding interview
 
 **Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
+
+
+### Day 20: September 7, 2017 Thursday
+
+**Today's Progress**: Work on Devman challenge #18, #20. Start localie task.
+
+**Thoughts** Just try again!) Started my Node.js journey.
+
+**Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
+                    [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
+                    [Localie](https://github.com/Ildarik/localie)
