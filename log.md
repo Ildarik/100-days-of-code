@@ -175,6 +175,7 @@
 
 **Thoughts** Just try again!) Started my Node.js journey.
 
-**Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
-                    [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
-                    [Localie](https://github.com/Ildarik/localie)
+**Link(s) to work**
+- [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
+- [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
+- [Localie](https://github.com/Ildarik/localie)
