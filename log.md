@@ -179,3 +179,12 @@
 - [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
 - [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
 - [Localie](https://github.com/Ildarik/localie)
+
+
+### Day 21: September 8, 2017 Friday
+
+**Today's Progress**: Work on Devman challenge #20. Learn how to getting started with hapi.js.
+
+**Thoughts** Node.js is awesome!)
+
+**Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
