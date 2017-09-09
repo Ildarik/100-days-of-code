@@ -188,3 +188,12 @@
 **Thoughts** Node.js is awesome!)
 
 **Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
+
+
+### Day 22: September 9, 2017 Saturday
+
+**Today's Progress**: Write more tests for Devman challenge #18. Work on localie challenge.
+
+**Thoughts** HTML markuping isn't easy (
+
+**Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
