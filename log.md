@@ -197,3 +197,12 @@
 **Thoughts** HTML markuping isn't easy (
 
 **Link(s) to work** [DEVMAN #18 Форматирование цены](https://github.com/Ildarik/18_price_format)
+
+
+### Day 23: September 10, 2017 Sunday
+
+**Today's Progress**: Work on localie challenge.
+
+**Thoughts** I'm stuck so I'll ask
+
+**Link(s) to work** [Localie](https://github.com/Ildarik/localie)
