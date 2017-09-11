@@ -206,3 +206,12 @@
 **Thoughts** I'm stuck so I'll ask
 
 **Link(s) to work** [Localie](https://github.com/Ildarik/localie)
+
+
+### Day 24: September 11, 2017 Monday
+
+**Today's Progress**: Work on localie challenge. Ask Mansur about issue, tried to solve yourself.
+
+**Thoughts** Try! Ask! Learn! Never give up!)
+
+**Link(s) to work** [Localie](https://github.com/Ildarik/localie)
