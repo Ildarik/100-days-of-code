@@ -215,3 +215,12 @@
 **Thoughts** Try! Ask! Learn! Never give up!)
 
 **Link(s) to work** [Localie](https://github.com/Ildarik/localie)
+
+
+### Day 25: September 12, 2017 Tuesday
+
+**Today's Progress**: Fixed devman task issue, work on mattioli task.
+
+**Thoughts** Learn from other people's code.
+
+**Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
