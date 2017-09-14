@@ -224,3 +224,12 @@
 **Thoughts** Learn from other people's code.
 
 **Link(s) to work** [DEVMAN #20 Сайт-вдохновение](https://github.com/Ildarik/20_mood)
+
+
+### Day 26: September 13, 2017 Wednesday
+
+**Today's Progress**: Show correct response in localie task. Build XML in mattioli task. 
+
+**Thoughts** Just try to solve issue next time...
+
+**Link(s) to work** [Localie](https://github.com/Ildarik/localie)
