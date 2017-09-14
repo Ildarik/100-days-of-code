@@ -233,3 +233,12 @@
 **Thoughts** Just try to solve issue next time...
 
 **Link(s) to work** [Localie](https://github.com/Ildarik/localie)
+
+
+### Day 27: September 14, 2017 Thursday
+
+**Today's Progress**: Work on mattioli task. Learn a bit about git pull\fetch.
+
+**Thoughts** ALWAYS BE CODING!!!
+
+**Link(s) to work** 
