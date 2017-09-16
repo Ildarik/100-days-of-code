@@ -242,3 +242,12 @@
 **Thoughts** ALWAYS BE CODING!!!
 
 **Link(s) to work** 
+
+
+### Day 28: September 16, 2017 Saturday
+
+**Today's Progress**: Work on Devman challenge #10.
+
+**Thoughts** Solving NEW problems is HARD
+
+**Link(s) to work** 
