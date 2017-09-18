@@ -251,3 +251,12 @@
 **Thoughts** Solving NEW problems is HARD
 
 **Link(s) to work** 
+
+
+### Day 29: September 18, 2017 Monday
+
+**Today's Progress**: Learn a lot about React, work on mattioli task.
+
+**Thoughts** NEVER GIVE UP!!!
+
+**Link(s) to work** 
