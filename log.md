@@ -260,3 +260,12 @@
 **Thoughts** NEVER GIVE UP!!!
 
 **Link(s) to work** 
+
+
+### Day 30: September 19, 2017 Tuesday
+
+**Today's Progress**: Learn React docs, take codecademy reactjs-I course.
+
+**Thoughts** JSX is cool!
+
+**Link(s) to work** 
