@@ -269,3 +269,12 @@
 **Thoughts** JSX is cool!
 
 **Link(s) to work** 
+
+
+### Day 31: September 20, 2017 Wednesday
+
+**Today's Progress**: Learn React docs, take codecademy reactjs-I course.
+
+**Thoughts** Hmm... If I learn React I can use that knowledge in React Native :)
+
+**Link(s) to work** 
