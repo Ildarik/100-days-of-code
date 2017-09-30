@@ -278,3 +278,10 @@
 **Thoughts** Hmm... If I learn React I can use that knowledge in React Native :)
 
 **Link(s) to work** 
+
+
+### Day 32: September 30, 2017 Saturday
+
+**Today's Progress**: Create about route 
+
+**Thoughts** Today is a big day! I did my first pull request ;)
