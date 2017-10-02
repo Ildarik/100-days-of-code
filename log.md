@@ -285,3 +285,10 @@
 **Today's Progress**: Create about route 
 
 **Thoughts** Today is a big day! I did my first pull request ;)
+
+
+### Day 33: October 2, 2017 Monday
+
+**Today's Progress**: Work on localie, quickresto, mattioli tasks
+
+**Thoughts** Styling html elements isn't easy 
