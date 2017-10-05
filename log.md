@@ -292,3 +292,10 @@
 **Today's Progress**: Work on localie, quickresto, mattioli tasks
 
 **Thoughts** Styling html elements isn't easy 
+
+
+### Day 34: October 5, 2017 Thursday
+
+**Today's Progress**: Work on localie task
+
+**Thoughts** It's pretty cool to use image as background )
