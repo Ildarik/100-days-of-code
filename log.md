@@ -299,3 +299,10 @@
 **Today's Progress**: Work on localie task
 
 **Thoughts** It's pretty cool to use image as background )
+
+
+### Day 35: October 15, 2017 Sunday
+
+**Today's Progress**: Markup new footer component
+
+**Thoughts** ALWAYS BE CODING! EVERYDAY!
