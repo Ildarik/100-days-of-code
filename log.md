@@ -306,3 +306,10 @@
 **Today's Progress**: Markup new footer component
 
 **Thoughts** ALWAYS BE CODING! EVERYDAY!
+
+
+### Day 36: October 19, 2017 Thursday
+
+**Today's Progress**: Work on help section
+
+**Thoughts** EAT frog at the morning!!!
