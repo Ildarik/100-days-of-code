@@ -313,3 +313,10 @@
 **Today's Progress**: Work on help section
 
 **Thoughts** EAT frog at the morning!!!
+
+
+### Day 37: October 25, 2017 Wednesday
+
+**Today's Progress**: Make react components for new landing
+
+**Thoughts** Try to do something! Ask! 
