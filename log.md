@@ -320,3 +320,12 @@
 **Today's Progress**: Make react components for new landing
 
 **Thoughts** Try to do something! Ask! 
+
+
+### Day 38: October 31, 2017 Tuesday
+
+**Today's Progress**: Make react components for new landing
+
+**Thoughts** Just start...
+
+
