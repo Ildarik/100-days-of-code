@@ -329,3 +329,8 @@
 **Thoughts** Just start...
 
 
+### Day 39: November 5, 2017 Sunday
+
+**Today's Progress**: Fix some issues
+
+**Thoughts** Git branching is wonderful
