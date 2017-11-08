@@ -334,3 +334,10 @@
 **Today's Progress**: Fix some issues
 
 **Thoughts** Git branching is wonderful
+
+
+### Day 40: November 8, 2017 Wednesday
+
+**Today's Progress**: Complete FCC algorithm challenge, reuse btsrtp Input element with our styles
+
+**Thoughts** Read docs, ask questions, try to build smth
