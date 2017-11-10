@@ -341,3 +341,10 @@
 **Today's Progress**: Complete FCC algorithm challenge, reuse btsrtp Input element with our styles
 
 **Thoughts** Read docs, ask questions, try to build smth
+
+
+### Day 41: November 10, 2017 Friday
+
+**Today's Progress**: Try to use new react-component, complete cron task.
+
+**Thoughts** Docs is my second home
