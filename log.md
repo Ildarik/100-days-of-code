@@ -348,3 +348,12 @@
 **Today's Progress**: Try to use new react-component, complete cron task.
 
 **Thoughts** Docs is my second home
+
+
+### Day 42: January 10, 2020 Friday
+
+**Today's Progress**: Submit 2 PR's in open source library which I used earlier
+
+**Thoughts**: It's never too late to continue this challenge ;)
+
+**Link to work**: https://github.com/zxqfox/megaplanjs/pull/15, https://github.com/zxqfox/megaplanjs/pull/14
