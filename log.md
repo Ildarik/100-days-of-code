@@ -357,3 +357,11 @@
 **Thoughts**: It's never too late to continue this challenge ;)
 
 **Link to work**: https://github.com/zxqfox/megaplanjs/pull/15, https://github.com/zxqfox/megaplanjs/pull/14
+
+### Day 43: January 13, 2020 Monday
+
+**Today's Progress**: Understood how to correctly add Facebook Login. Started explore react-navigation and ui kitten.
+
+**Thoughts**: Forgot laptop charger at work and had been resting at the weekend
+
+**Link to work**: https://github.com/Ildarik/instagram_clone/pull/2
