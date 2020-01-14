@@ -357,3 +357,21 @@
 **Thoughts**: It's never too late to continue this challenge ;)
 
 **Link to work**: https://github.com/zxqfox/megaplanjs/pull/15, https://github.com/zxqfox/megaplanjs/pull/14
+
+
+### Day 43: January 13, 2020 Monay
+
+**Today's Progress**: Implemented Facebook Login on React Native in the right way. First touch on react-navigation and ui-kitten.
+
+**Thoughts**: Get better in problem-solving
+
+**Link to work**: https://github.com/Ildarik/instagram_clone/pull/2
+
+
+### Day 44: January 14, 2020 Tuesday
+
+**Today's Progress**: Kickstart new project and fix some issues
+
+**Thoughts**: Try different paths to achieve a goal. F.e. switch from data source type to another :)
+
+**Link to work**: https://github.com/Ildarik/get-id
