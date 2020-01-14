@@ -372,6 +372,6 @@
 
 **Today's Progress**: Kickstart new project and fix some issues
 
-**Thoughts**: Try different paths to achieve a goal. F.e. switch from data source type to another :)
+**Thoughts**: Try different paths to achieve a goal. F.e. switch from one data source type to another :)
 
 **Link to work**: https://github.com/Ildarik/get-id
