@@ -375,3 +375,10 @@
 **Thoughts**: Try different paths to achieve a goal. F.e. switch from one data source type to another :)
 
 **Link to work**: https://github.com/Ildarik/get-id
+
+
+### Day 45: January 15, 2020 Wednesday
+
+**Today's Progress**: Fix some remarks and merge PR.
+
+**Thoughts**: Be open to new opportunities and challenges (mkdev.me)
