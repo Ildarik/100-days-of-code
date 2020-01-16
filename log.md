@@ -391,3 +391,10 @@
 **Today's Progress**: Fix some remarks and merge PR.
 
 **Thoughts**: Be open to new opportunities and challenges (mkdev.me)
+
+
+### Day 46: January 16, 2020 Thursday
+
+**Today's Progress**: Figured out how to query from XML in gatsby. Decided to implement simple solution with combined and prepared data.
+
+**Thoughts**: A good question to ask yourself when struggling at smth: "Maybe there is a much simple solution? For now?
