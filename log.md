@@ -398,3 +398,10 @@
 **Today's Progress**: Figured out how to query from XML in gatsby. Decided to implement simple solution with combined and prepared data.
 
 **Thoughts**: A good question to ask yourself when struggling at smth: "Maybe there is a much simple solution? For now?
+
+
+### Day 47: January 17, 2020 Friday
+
+**Today's Progress**: Did UI to filter and show data. Wrote a script to parse raw csv file and get custom data.
+
+**Thoughts**: The task seemed simple, but in fact, I had to sweat. Such victories are so pleasant...
