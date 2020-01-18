@@ -405,3 +405,10 @@
 **Today's Progress**: Did UI to filter and show data. Wrote a script to parse raw csv file and get custom data.
 
 **Thoughts**: The task seemed simple, but in fact, I had to sweat. Such victories are so pleasant...
+
+
+### Day 48: January 18, 2020 Saturday
+
+**Today's Progress**: Did a script to parse csv files
+
+**Thoughts**: I'm on stuck and I wanna sleep...
