@@ -412,3 +412,10 @@
 **Today's Progress**: Did a script to parse csv files
 
 **Thoughts**: I'm on stuck and I wanna sleep...
+
+
+### Day 49: January 19, 2020 Sunday
+
+**Today's Progress**: Didn't solve the problem. Asked a mentor.
+
+**Thoughts**: If you're on stuck - ASK somebody!!!!
