@@ -419,3 +419,10 @@
 **Today's Progress**: Didn't solve the problem. Asked a mentor.
 
 **Thoughts**: If you're on stuck - ASK somebody!!!!
+
+
+### Day 50: January 20, 2020 Monday
+
+**Today's Progress**: Got closer to solve async problem in `parce-csv`. Started styling for mkdev.
+
+**Thoughts**: 1st day of working with a mentor. Can't describe how awesome it is.
