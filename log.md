@@ -426,3 +426,10 @@
 **Today's Progress**: Got closer to solve async problem in `parce-csv`. Started styling for mkdev.
 
 **Thoughts**: 1st day of working with a mentor. Can't describe how awesome it is.
+
+
+### Day 51: January 21, 2020 Tuesday
+
+**Today's Progress**: Did a lot of styling.
+
+**Thoughts**: Got better in CSS. 
