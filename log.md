@@ -433,3 +433,10 @@
 **Today's Progress**: Did a lot of styling.
 
 **Thoughts**: Got better in CSS. 
+
+
+### Day 52: January 22, 2020 Wednesday
+
+**Today's Progress**: Polished styles, added transition, learned about relative units, grabed styles from antd :)
+
+**Thoughts**: CSS is powerful 
