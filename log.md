@@ -440,3 +440,10 @@
 **Today's Progress**: Polished styles, added transition, learned about relative units, grabed styles from antd :)
 
 **Thoughts**: CSS is powerful 
+
+
+### Day 53: January 23, 2020 Thursday
+
+**Today's Progress**: Started to work on modal window.
+
+**Thoughts**: Researching open source projects I've found that there are so many ways to solve the same task. 
