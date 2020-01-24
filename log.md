@@ -447,3 +447,10 @@
 **Today's Progress**: Started to work on modal window.
 
 **Thoughts**: Researching open source projects I've found that there are so many ways to solve the same task. 
+
+
+### Day 54: January 24, 2020 Friday
+
+**Today's Progress**: Finished styling modal. Figured out how to show modal then clicking different buttons.
+
+**Thoughts**: Changing just a font-family has great impact on look&feel.
