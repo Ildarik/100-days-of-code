@@ -454,3 +454,10 @@
 **Today's Progress**: Finished styling modal. Figured out how to show modal then clicking different buttons.
 
 **Thoughts**: Changing just a font-family has great impact on look&feel.
+
+
+### Day 55: January 25, 2020 Saturday
+
+**Today's Progress**: Resolved issue with modal (open\hide). 
+
+**Thoughts**: (Custom) Hooks is awesome!
