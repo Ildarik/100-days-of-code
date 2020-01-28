@@ -461,3 +461,10 @@
 **Today's Progress**: Resolved issue with modal (open\hide). 
 
 **Thoughts**: (Custom) Hooks is awesome!
+
+
+### Day 56: January 26, 2020 Monday
+
+**Today's Progress**: Figured out how to pass modal toggler to the modal footer. Learned about async operations. Added Redux to the project. 
+
+**Thoughts**: Earlier I didn't think about code reusability but that is one of the most essential concepts!
