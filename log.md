@@ -468,3 +468,10 @@
 **Today's Progress**: Figured out how to pass modal toggler to the modal footer. Learned about async operations. Added Redux to the project. 
 
 **Thoughts**: Earlier I didn't think about code reusability but that is one of the most essential concepts!
+
+
+### Day 57: January 27, 2020 Tuesday
+
+**Today's Progress**: Refactor modal toggler. Configured redux. Worked on `id`-shko project.
+
+**Thoughts**: Glad to develop "always be coding"-habit
