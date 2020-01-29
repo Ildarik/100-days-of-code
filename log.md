@@ -475,3 +475,10 @@
 **Today's Progress**: Refactor modal toggler. Configured redux. Worked on `id`-shko project.
 
 **Thoughts**: Glad to develop "always be coding"-habit
+
+
+### Day 58: January 28, 2020 Wednesday
+
+**Today's Progress**: Moved to redux hooks. Refactored all modals.
+
+**Thoughts**: Frontend is really really big and complicated
