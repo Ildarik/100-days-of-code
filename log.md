@@ -463,22 +463,29 @@
 **Thoughts**: (Custom) Hooks is awesome!
 
 
-### Day 56: January 26, 2020 Monday
+### Day 56: January 27, 2020 Monday
 
 **Today's Progress**: Figured out how to pass modal toggler to the modal footer. Learned about async operations. Added Redux to the project. 
 
 **Thoughts**: Earlier I didn't think about code reusability but that is one of the most essential concepts!
 
 
-### Day 57: January 27, 2020 Tuesday
+### Day 57: January 28, 2020 Tuesday
 
 **Today's Progress**: Refactor modal toggler. Configured redux. Worked on `id`-shko project.
 
 **Thoughts**: Glad to develop "always be coding"-habit
 
 
-### Day 58: January 28, 2020 Wednesday
+### Day 58: January 29, 2020 Wednesday
 
 **Today's Progress**: Moved to redux hooks. Refactored all modals.
 
 **Thoughts**: Frontend is really really big and complicated
+
+
+### Day 59: January 30, 2020 Thursday
+
+**Today's Progress**: Finished AddProduct Modal (UI + logic). Filter by categories. Refactored modal (again?)
+
+**Thoughts**: You wouldn't know until you get your hands dirty
