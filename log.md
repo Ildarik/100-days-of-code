@@ -495,4 +495,4 @@
 
 **Today's Progress**: Finished all modals. Fixed all remarks. Did other improvements.
 
-**Thoughts**: Always keep in mind UX and design. Put yourself as a user.
+**Thoughts**: Always keep in mind UX and design. Put yourself in the user's shoes.
