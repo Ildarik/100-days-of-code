@@ -489,3 +489,10 @@
 **Today's Progress**: Finished AddProduct Modal (UI + logic). Filter by categories. Refactored modal (again?)
 
 **Thoughts**: You wouldn't know until you get your hands dirty
+
+
+### Day 60: January 31, 2020 Friday
+
+**Today's Progress**: Finished all modals. Fixed all remarks. Did other improvements.
+
+**Thoughts**: Always keep in mind UX and design. Put yourself as a user.
