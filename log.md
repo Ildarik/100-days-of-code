@@ -496,3 +496,10 @@
 **Today's Progress**: Finished all modals. Fixed all remarks. Did other improvements.
 
 **Thoughts**: Always keep in mind UX and design. Put yourself in the user's shoes.
+
+
+### Day 61: February 2, 2020 Sunday
+
+**Today's Progress**: Added server, refactored modals, got products from server.
+
+**Thoughts**: First - docs, blog posts after that.
