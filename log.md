@@ -503,3 +503,10 @@
 **Today's Progress**: Added server, refactored modals, got products from server.
 
 **Thoughts**: First - docs, blog posts after that.
+
+
+### Day 62: February 3, 2020 Monday
+
+**Today's Progress**: Added all API endpoints and integrated with client.
+
+**Thoughts**: Get better at debugging.
