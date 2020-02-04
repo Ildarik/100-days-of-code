@@ -510,3 +510,10 @@
 **Today's Progress**: Added all API endpoints and integrated with client.
 
 **Thoughts**: Get better at debugging.
+
+
+## Day 63: February 4, 2020 Tuesday
+
+**Today's Progress**: Started cooking mongoDB and mongoose. Played with curl and compass.
+
+**Thoughts**: Write ES6 on nodejs is so exciting...
