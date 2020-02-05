@@ -517,3 +517,10 @@
 **Today's Progress**: Started cooking mongoDB and mongoose. Played with curl and compass.
 
 **Thoughts**: Write ES6 on nodejs is so exciting...
+
+
+## Day 64: February 5, 2020 Wednesday
+
+**Today's Progress**: Polished backend and integrated with client.
+
+**Thoughts**: Thinking about creation top list with stupid bugs
