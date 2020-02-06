@@ -524,3 +524,10 @@
 **Today's Progress**: Polished backend and integrated with client.
 
 **Thoughts**: Thinking about creation top list with stupid bugs
+
+
+## Day 65: February 6, 2020 Thursday
+
+**Today's Progress**: Started working on autorization with passportjs. Refactored a little frontend. 
+
+**Thoughts**: Sometimes it needs more time to get familiar with new library...
