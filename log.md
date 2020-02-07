@@ -531,3 +531,10 @@
 **Today's Progress**: Started working on autorization with passportjs. Refactored a little frontend. 
 
 **Thoughts**: Sometimes it needs more time to get familiar with new library...
+
+
+## Day 66: February 7, 2020 Friday
+
+**Today's Progress**: On client added routing, login\register components. Played with image OCR.
+
+**Thoughts**: Tutorials without source code for the entire app not very useful
