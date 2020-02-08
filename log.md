@@ -538,3 +538,10 @@
 **Today's Progress**: On client added routing, login\register components. Played with image OCR.
 
 **Thoughts**: Tutorials without source code for the entire app not very useful
+
+
+## Day 67: February 7, 2020 Friday
+
+**Today's Progress**: Added auth links. Improved backend stuff for authentication.
+
+**Thoughts**: Usually, source code is more expressive than a bunch of text
