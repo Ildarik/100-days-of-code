@@ -540,8 +540,15 @@
 **Thoughts**: Tutorials without source code for the entire app not very useful
 
 
-## Day 67: February 7, 2020 Friday
+## Day 67: February 8, 2020 Saturday
 
 **Today's Progress**: Added auth links. Improved backend stuff for authentication.
 
 **Thoughts**: Usually, source code is more expressive than a bunch of text
+
+
+## Day 68: February 9, 2020 Sunday
+
+**Today's Progress**: Solved routing issue. Started express-session implementation.
+
+**Thoughts**: Fill your memory late at night with an issue and sleep on it
