@@ -552,3 +552,10 @@
 **Today's Progress**: Solved routing issue. Started express-session implementation.
 
 **Thoughts**: Fill your memory late at night with an issue and sleep on it
+
+
+## Day 69: February 10, 2020 Monday
+
+**Today's Progress**: Debugged express session issue.
+
+**Thoughts**: Maybe the 2nd step on debugging after billions of console.log() is to try to simplify code as much as you can and grow bigger...
