@@ -559,3 +559,10 @@
 **Today's Progress**: Debugged express session issue.
 
 **Thoughts**: Maybe the 2nd step on debugging after billions of console.log() is to try to simplify code as much as you can and grow bigger...
+
+
+## Day 70: February 11, 2020 Tuesday
+
+**Today's Progress**: Debugged express session issue again.  
+
+**Thoughts**: There are many ways to solve problems. F.e., to try another approach
