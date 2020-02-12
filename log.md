@@ -566,3 +566,12 @@
 **Today's Progress**: Debugged express session issue again.  
 
 **Thoughts**: There are many ways to solve problems. F.e., to try another approach
+
+
+## Day 71: February 12, 2020 Wednesday
+
+**Today's Progress**: Built frontend and served as static on server. Fixed routing issue 
+
+**Thoughts**: Get hands dirty with completely new knowledge
+
+
