@@ -575,3 +575,8 @@
 **Thoughts**: Get hands dirty with completely new knowledge
 
 
+## Day 72: February 13, 2020 Thursday
+
+**Today's Progress**: Used antd grid and card components to layout main page.
+
+**Thoughts**: Ant.design is great! Docs, API, UI. Definitely, I'll use it again!
