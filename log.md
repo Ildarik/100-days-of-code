@@ -580,3 +580,10 @@
 **Today's Progress**: Used antd grid and card components to layout main page.
 
 **Thoughts**: Ant.design is great! Docs, API, UI. Definitely, I'll use it again!
+
+
+## Day 73: February 14, 2020 Friday
+
+**Today's Progress**: Added docker and tuned AWS VM.
+
+**Thoughts**: Get started with AWS is not so difficult as it turned out 
