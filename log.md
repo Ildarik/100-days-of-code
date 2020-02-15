@@ -587,3 +587,10 @@
 **Today's Progress**: Added docker and tuned AWS VM.
 
 **Thoughts**: Get started with AWS is not so difficult as it turned out 
+
+
+## Day 74: February 15, 2020 Saturday
+
+**Today's Progress**: Fixed accessibility of application deployed on AWS. Tried to dump MySQL.
+
+**Thoughts**: You can't use docker, but you should!
