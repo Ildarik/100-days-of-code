@@ -594,3 +594,10 @@
 **Today's Progress**: Fixed accessibility of application deployed on AWS. Tried to dump MySQL.
 
 **Thoughts**: You can't use docker, but you should!
+
+
+## Day 75: February 16, 2020 Sunday
+
+**Today's Progress**: Cloned application. Protected routes. Fixed api accessibility.
+
+**Thoughts**: Just finished the coding mentorship. Very proud of myself!)
