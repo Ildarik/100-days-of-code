@@ -601,3 +601,10 @@
 **Today's Progress**: Cloned application. Protected routes. Fixed api accessibility.
 
 **Thoughts**: Just finished the coding mentorship. Very proud of myself!)
+
+
+## Day 76: February 18, 2020 Tuesday
+
+**Today's Progress**: Setup testing. Fixed button clicking issue on jelly.ninja.
+
+**Thoughts**: Many more ideas about automation...
