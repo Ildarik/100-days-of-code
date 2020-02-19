@@ -608,3 +608,10 @@
 **Today's Progress**: Setup testing. Fixed button clicking issue on jelly.ninja.
 
 **Thoughts**: Many more ideas about automation...
+
+
+## Day 77: February 19, 2020 Wednesday
+
+**Today's Progress**: Writed nodejs script to remove dublicate entries from a bunch of emails.
+
+**Thoughts**: Engineers ask your github account, HR's - your CV
