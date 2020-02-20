@@ -615,3 +615,10 @@
 **Today's Progress**: Writed nodejs script to remove dublicate entries from a bunch of emails.
 
 **Thoughts**: Engineers ask your github account, HR's - your CV
+
+
+## Day 78: February 20, 2020 Thursday
+
+**Today's Progress**: Writed my first test. Did script to parse XML file
+
+**Thoughts**: Came back to project after month and rewrote it with a new passion
