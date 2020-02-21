@@ -622,3 +622,10 @@
 **Today's Progress**: Writed my first test. Did script to parse XML file
 
 **Thoughts**: Came back to project after month and rewrote it with a new passion
+
+
+## Day 79: February 21, 2020 Friday
+
+**Today's Progress**: Tried to refactor parsing feature and figured out that that doesn't need at all. I can get my goal manually!) That will be enough now
+
+**Thoughts**: Good question yourself before refactoring - does it really needs?
