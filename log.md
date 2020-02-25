@@ -629,3 +629,59 @@
 **Today's Progress**: Tried to refactor parsing feature and figured out that that doesn't need at all. I can get my goal manually!) That will be enough now
 
 **Thoughts**: Good question yourself before refactoring - does it really needs?
+
+
+## Day 80: February 25, 2020 Tuesday
+
+**Today's Progress**: Small touches on "get unique emails" project. Exported raw data with id's. Solved json'ifing issue.
+
+**Thoughts**: Double trap with "I don't know" issue. From today would be fewer questions there I could answer like that!)
+
+
+## Day : February 26, 2020 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+## Day : 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+## Day : 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+## Day : 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+## Day : 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+## Day : 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+## Day : 
+
+**Today's Progress**: 
+
+**Thoughts**: 
