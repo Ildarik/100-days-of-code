@@ -633,16 +633,16 @@
 
 ## Day 80: February 25, 2020 Tuesday
 
-**Today's Progress**: Small touches on "get unique emails" project. Exported raw data with id's. Solved json'ifing issue.
+**Today's Progress**: Small touches on "get unique emails" project. Exported raw data with id's. Solved json'ifing issue. ? worked on ui ?
 
 **Thoughts**: Double trap with "I don't know" issue. From today would be fewer questions there I could answer like that!)
 
 
-## Day : February 26, 2020 
+## Day 81: February 27, 2020 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Finished "Get ID" project!
 
-**Thoughts**: 
+**Thoughts**: Finished is better than perfect!
 
 
 ## Day : 
