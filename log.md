@@ -645,11 +645,11 @@
 **Thoughts**: Finished is better than perfect!
 
 
-## Day : 
+## Day 82: February 28, 2020 Friday
 
-**Today's Progress**: 
+**Today's Progress**: Writed tests for actions and reducers. Fixed layout for jelly.ninja.
 
-**Thoughts**: 
+**Thoughts**: Got hands dirty with testing. I found it very useful.
 
 
 ## Day : 
