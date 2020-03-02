@@ -652,11 +652,11 @@
 **Thoughts**: Got hands dirty with testing. I found it very useful.
 
 
-## Day : 
+## Day 83: March 02, 2020 Monday
 
-**Today's Progress**: 
+**Today's Progress**: Writed test for component. Started ASSP dashboard project. Played with megaplan API ver.3
 
-**Thoughts**: 
+**Thoughts**: Great things begin with small steps ...
 
 
 ## Day : 
