@@ -659,11 +659,11 @@
 **Thoughts**: Great things begin with small steps ...
 
 
-## Day : 
+## Day 84: March 03, 2020 Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Solved fetching API issue. Added deal component to ASSP. Improved get-id app. First time used localStorage and Skeleton ;)
 
-**Thoughts**: 
+**Thoughts**: Really like days like this. Did a lot, got knew a lot and got closer to my goals.
 
 
 ## Day : 
