@@ -666,11 +666,11 @@
 **Thoughts**: Really like days like this. Did a lot, got knew a lot and got closer to my goals.
 
 
-## Day : 
+## Day 85: March 05, 2020 Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Did a lot for get-id project - fixes, features, improvements. Learned new things too.
 
-**Thoughts**: 
+**Thoughts**: CSS-frameworks are a great choice to quickly bootstrap new project
 
 
 ## Day : 
