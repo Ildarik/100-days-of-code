@@ -673,11 +673,11 @@
 **Thoughts**: CSS-frameworks are a great choice to quickly bootstrap new project
 
 
-## Day : 
+## Day 86: March 06, 2020 Friday
 
-**Today's Progress**: 
+**Today's Progress**: Customized project filter to search by typing. Build react-leaflet map for malls.
 
-**Thoughts**: 
+**Thoughts**: @LeafletJS is so simple and powerful. A good way in interactive maps.
 
 
 ## Day : 
