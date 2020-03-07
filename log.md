@@ -680,8 +680,8 @@
 **Thoughts**: @LeafletJS is so simple and powerful. A good way in interactive maps.
 
 
-## Day : 
+## Day 87: March 07, 2020 Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Worked on map view for projects and came back to mosque page.
 
-**Thoughts**: 
+**Thoughts**: So exciting to coming back to the old project with gained new knowledge and experience...
