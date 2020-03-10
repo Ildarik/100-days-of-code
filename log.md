@@ -685,3 +685,10 @@
 **Today's Progress**: Worked on map view for projects and came back to mosque page.
 
 **Thoughts**: So exciting to coming back to the old project with gained new knowledge and experience...
+
+
+## Day 88: March 08, 2020 Sunday
+
+**Today's Progress**: Learned about unit testing, TDD, graphQL and client-side API wrappers. Did emojis as a radio buttons, get deal data from megaplan etc
+
+**Thoughts**: @GraphQL seems insanely interesting... Diving in!
