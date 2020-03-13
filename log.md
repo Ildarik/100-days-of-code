@@ -699,3 +699,10 @@
 **Today's Progress**: Handled more inputs for deal form. Learned how to use data from API ver. 1 and webhooks. Deployed new app ;)
 
 **Thoughts**: Workable and tangible product gives new strength and motivation for its development
+
+
+## Day 90: March 13, 2020 Friday
+
+**Today's Progress**: Started to build events page. Got connections count from API ver.1 using serverless function.
+
+**Thoughts**: I never cease to be surprised what a cool service offer @zeithq. Today I deployed my first serverless function :)
