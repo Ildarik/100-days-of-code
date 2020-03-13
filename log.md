@@ -687,8 +687,15 @@
 **Thoughts**: So exciting to coming back to the old project with gained new knowledge and experience...
 
 
-## Day 88: March 08, 2020 Sunday
+## Day 88: March 10, 2020 Tuesday
 
 **Today's Progress**: Learned about unit testing, TDD, graphQL and client-side API wrappers. Did emojis as a radio buttons, get deal data from megaplan etc
 
 **Thoughts**: @GraphQL seems insanely interesting... Diving in!
+
+
+## Day 89: March 12, 2020 Thursday
+
+**Today's Progress**: Handled more inputs for deal form. Learned how to use data from API ver. 1 and webhooks. Deployed new app ;)
+
+**Thoughts**: Workable and tangible product gives new strength and motivation for its development
