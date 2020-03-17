@@ -706,3 +706,11 @@
 **Today's Progress**: Started to build events page. Got connections count from API ver.1 using serverless function.
 
 **Thoughts**: I never cease to be surprised what a cool service offer @zeithq. Today I deployed my first serverless function :)
+
+
+## Day 91: March 16, 2020 Monday
+
+**Today's Progress**: Handled virtual env variables. Got events from api v.1 and other stuff like styling etc...
+
+**Thoughts**: Becoming braver in UX-ideas
+
