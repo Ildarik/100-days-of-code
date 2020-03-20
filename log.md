@@ -714,3 +714,17 @@
 
 **Thoughts**: Becoming braver in UX-ideas
 
+
+## Day 92: March 17, 2020 Tuesday
+
+**Today's Progress**: Fixed routing issue. Shorten api endpoinds. Got logins from API.
+
+
+## Day 93: March 18, 2020 Wednesday
+
+**Today's Progress**: Fixed showing events issue.
+
+
+## Day 94: March 20, 2020 Friday
+
+**Today's Progress**: Fixed counter bug. Added new data.
