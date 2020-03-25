@@ -728,3 +728,10 @@
 ## Day 94: March 20, 2020 Friday
 
 **Today's Progress**: Fixed counter bug. Added new data.
+
+
+## Day 95: March 25, 2020 Wednesday
+
+**Today's Progress**: Fixed counter. Handled custom ofd detail. Reverted date connection. Launched `now dev` command.
+
+**Thoughts**: On debugging an app try to check it through VPN and incognito page ;)
