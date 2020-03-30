@@ -735,3 +735,10 @@
 **Today's Progress**: Fixed counter. Handled custom ofd detail. Reverted date connection. Launched `now dev` command.
 
 **Thoughts**: On debugging an app try to check it through VPN and incognito page ;)
+
+
+## Day 96: March 30, 2020 Monday
+
+**Today's Progress**: Some improvements on assp dashboard.
+
+**Thoughts**: Thinking about deployment automation...
