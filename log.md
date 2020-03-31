@@ -742,3 +742,10 @@
 **Today's Progress**: Some improvements on assp dashboard.
 
 **Thoughts**: Thinking about deployment automation...
+
+
+## Day 97: March 31, 2020 Tuesday
+
+**Today's Progress**: Handle no tasks. Fix and dry styles. Mess with apache configuration.
+
+**Thoughts**: It is hard to be curious and stay motivated after changing location and always working from home
