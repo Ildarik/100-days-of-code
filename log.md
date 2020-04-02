@@ -749,3 +749,10 @@
 **Today's Progress**: Handle no tasks. Fix and dry styles. Mess with apache configuration.
 
 **Thoughts**: It is hard to be curious and stay motivated after changing location and always working from home
+
+
+## Day 98: April 02, 2020 Thursday
+
+**Today's Progress**: Little improvements on assp and get-id projects (styles, features etc)
+
+**Thoughts**: Good knowing one language gives you ability to not fear other languages
