@@ -756,3 +756,10 @@
 **Today's Progress**: Little improvements on assp and get-id projects (styles, features etc)
 
 **Thoughts**: Good knowing one language gives you ability to not fear other languages
+
+
+## Day 99: April 09, 2020 Thursday
+
+**Today's Progress**: Build bash script to automate code updating on many servers
+
+**Thoughts**: Bash programming is not difficult and very exciting
