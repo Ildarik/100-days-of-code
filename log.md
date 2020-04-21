@@ -763,3 +763,10 @@
 **Today's Progress**: Build bash script to automate code updating on many servers
 
 **Thoughts**: Bash programming is not difficult and very exciting
+
+
+## Day 100: April 21, 2020 Tuesday
+
+**Today's Progress**: Started to work on script to fetch all ids from megaplan deals
+
+**Thoughts**: Incredible, but it's over!
